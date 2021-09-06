@@ -1,4 +1,4 @@
-FROM ubuntu:18.04
+FROM ubuntu:20.04
 LABEL maintainer="Fasttrack solutions"
 ENV TERRAFORM_VERSION=0.11.11
 
